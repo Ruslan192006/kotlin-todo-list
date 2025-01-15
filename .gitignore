@@ -1,0 +1,7 @@
+*.jar
+*.class
+tasks.txt
+.idea/
+*.iml
+out/
+build/
