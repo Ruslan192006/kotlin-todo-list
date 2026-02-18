@@ -19,6 +19,3 @@
 kotlinc src/Main.kt -include-runtime -d TodoApp.jar
 java -jar TodoApp.jar
 ```
-
-## Автор
-Учебный проект для демонстрации навыков Kotlin
